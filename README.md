@@ -6,6 +6,6 @@
 - 🤔 I’m looking for help with getting a mini-internship at a company
 - 💬 Ask me about my other skills
 - 📫 How to reach me: anna.gabain@outlook.com
-- ⚡ Fun fact: music theory and programming are not that different
+- ⚡ Fun fact: music theory and programming have some similarities
 
 
