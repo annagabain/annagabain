@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on some Agile mini-projects
 - 🤔 I’m looking for help with getting a mini-internship at a company
 - 💬 Ask me about my other skills
-- 📫 How to reach me: anna.gabain@outlook.com
 - ⚡ Fun fact: music theory and programming have some similarities
 
 
