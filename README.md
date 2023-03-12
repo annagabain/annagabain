@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my fifth Portfolio project with Code Institute: 
+- 🔭 I’m currently working on my fifth and final Portfolio project with Code Institute: 
     -  React application (the name will be published soon)
     -  Full-Stack application with authentication, profile setup and database manipulation
 - 🌱 I’m currently learning React Essentials and Django REST Framework
