@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my fourth Portfolio project with Code Institute: 
-    -  Mom Schedule: A Time Planning Tool for Busy Mothers
+- 🔭 I’m currently working on my fifth Portfolio project with Code Institute: 
+    -  React application (the name will be published soon)
     -  Full-Stack application with authentication, profile setup and database manipulation
-- 🌱 I’m currently learning Full Stack Frameworks (Python, Django, PostgreSQL) and React, Vue.js
+- 🌱 I’m currently learning React Essentials and Django REST Framework
 - 👯 I’m looking for like-minded people
 - 🤔 I’m looking for help with getting a Frontend Developer Traineeship at a larger company
 - 💬 Ask me about my other skills
