@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🕵️‍♀️ I’m looking for a Frontend / Fullstack Developer  / UX designer Traineeship at a larger company in Stockholm.
+- 🕵️‍♀️ I’m looking for a Frontend / Fullstack Developer  / UX designer Traineeship at a larger company in Stockholm or remotely in Europe.
 
 
 - 🔭 I have just finished working on my fifth and final Portfolio project with Code Institute: 
