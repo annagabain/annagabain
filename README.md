@@ -9,7 +9,7 @@
     -  Users browse each other's content as well as add, edit and delete their own.
 
 - 👯 I’m looking for like-minded people: developers, designers, recruiters, product/project owners.
-- 
+  
 - 💬 Ask me about my other skills.
-- 
+  
 - ⚡ Fun fact: music theory and programming have some similarities.
