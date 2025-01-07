@@ -42,13 +42,3 @@
 
 <img width="200" alt="1tablet" src="https://github.com/user-attachments/assets/1f11dc7a-4fc3-4b00-ab4e-15ce61dfcde9" />
 
-
-
-<img width="200" alt="1tablet" src="https://github.com/user-attachments/assets/fd07d8ed-18f5-4e87-ae80-1d28a1756882" />
-
-
-
-
-
-
-
