@@ -36,16 +36,16 @@ Layouts and Responsivity
 
 User Friendly Messages
 
-<img height="200" alt="1tablet" src="https://github.com/user-attachments/assets/492343cf-2047-4b47-8e6a-9379fcc8bef2" />
+<img height="100" alt="1tablet" src="https://github.com/user-attachments/assets/492343cf-2047-4b47-8e6a-9379fcc8bef2" />
 
-<img height="200" alt="1tablet" src="https://github.com/user-attachments/assets/1aa7c5be-823c-486f-acf5-a30a74febbcb" />
+<img height="100" alt="1tablet" src="https://github.com/user-attachments/assets/1aa7c5be-823c-486f-acf5-a30a74febbcb" />
 
 
 Experience Flow and Navigation
 
-<img height="200" alt="1tablet" src="https://github.com/user-attachments/assets/a49aa531-b457-431b-8d07-d3547201a3fd" />
+<img height="300" alt="1tablet" src="https://github.com/user-attachments/assets/a49aa531-b457-431b-8d07-d3547201a3fd" />
 
-<img height="200" alt="SymphoFind-flow-prototype" src="https://github.com/user-attachments/assets/3c6a26fd-7c0b-46d9-8945-b9aca0089922" />
+<img height="300" alt="SymphoFind-flow-prototype" src="https://github.com/user-attachments/assets/3c6a26fd-7c0b-46d9-8945-b9aca0089922" />
 
 
 Functional Design - Showcase a Terminal Run Application in the Browser
@@ -53,5 +53,12 @@ Functional Design - Showcase a Terminal Run Application in the Browser
 <img height="200" alt="1tablet" src="https://github.com/user-attachments/assets/6a610226-8a1e-4be7-b8aa-f7d3d4d5453e" />
 
 <img height="200" alt="1tablet" src="https://github.com/user-attachments/assets/1f11dc7a-4fc3-4b00-ab4e-15ce61dfcde9" />
+
+Board Buddy - AI driven chatbot application
+
+<img height="300" alt="1tablet" src="https://github.com/user-attachments/assets/e7faf4ba-df6f-4ec4-b68c-698dcaac1803" />
+
+
+
 
 
