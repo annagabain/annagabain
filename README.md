@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🕵️‍♀️ **I’m looking for a UX / UI and Frontend / Fullstack Developer Job at a larger company in Stockholm or remotely in Sweden and EU.**
-- :mortar_board: Recently enhanced my frontend skills with **Lexicon** - the Swedish job market oriented school.
+- **I’m a junior UX / UI, Product and Frontend / Fullstack Developer in Stockholm.**
+- :mortar_board: Recently enhanced my frontend skills with **Lexicon**, participated and won some Hackathons.
 
 - 🔭 My favourite Portfolio project was with **Code Institute**: 
     -  Project title: Mom Network - Communication Tool for Busy Mothers.
